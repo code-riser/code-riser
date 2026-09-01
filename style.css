@@ -1,0 +1,37 @@
+.avatar-box {
+    position: relative;
+    width: 488px;
+    height: 468px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    overflow: hidden;
+}
+
+#githubAvatar {
+    display: none;
+}
+
+.ascii-avatar {
+    width: 100%;
+    height: 100%;
+
+    overflow: visible;
+}
+
+.ascii-avatar .ascii {
+    font-family:
+        "Courier New",
+        Consolas,
+        monospace;
+
+    font-size: 7.4px;
+
+    fill: url(#asciiGrad);
+
+    letter-spacing: -0.2px;
+
+    white-space: pre;
+}
