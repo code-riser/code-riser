@@ -1,7 +1,7 @@
 <a href="https://github.com/code-riser/code-riser">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-riser/code-riser/main/dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-riser/code-riser/main/code-riser-profile.svg">
     <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/code-riser/code-riser/main/light.svg">
   </picture>
   <p align="center">
